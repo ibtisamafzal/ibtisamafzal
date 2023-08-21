@@ -10,28 +10,24 @@
 
 - 🎓 I’m currently Studying **Bachelors of Computer Science**
 
-- 💻 I'm currently Learning **C++**
+- 💻 I'm currently Learning **Front-End Web Development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ibtisamafzal/](https://www.linkedin.com/in/ibtisamafzal/)
+- 👨‍💻 All of my certifications are available at [https://www.linkedin.com/in/ibtisamafzal/](https://www.linkedin.com/in/ibtisamafzal/)
 
-- 📝 I regularly write articles on [https://mathclinicpk.wordpress.com](https://mathclinicpk.wordpress.com)
+- 💬 Ask me about **C, C++, Python, HTML, CSS, Web Development**
 
-- 💬 Ask me about **C, C++, Python**
+- 📫 You can reach me at: **chaudhryibtisam2003@gmail.com**
 
-- 📫 How to reach me **chaudhryibtisam2003@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ix0Tt0n3VTHDEW3YlLWAGHE4zWGFnQ6J/view?usp=share_link](https://drive.google.com/file/d/1Ix0Tt0n3VTHDEW3YlLWAGHE4zWGFnQ6J/view?usp=share_link)
-
-- ⚡ Fun fact **I think I can do Anything!!!**
+- ⚡ Fun fact: **I think I can do Anything!!!**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibtisamafzal" alt="ibtisamafzal" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ibtisam__ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ibtisam__ch" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ibtisamafzal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibtisamafzal/" height="30" width="40" /></a>
+<a href="https://twitter.com/Ibtisam_Afzall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ibtisam__ch" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ibtisamafzal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibtisamafzal/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21440817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21440817" height="30" width="40" /></a>
-<a href="https://fb.com/hereibtisam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hereibtisam" height="30" width="40" /></a>
-<a href="https://instagram.com/https._.ibtisam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https._.ibtisam" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Ibtisam.Afzall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hereibtisam" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ibtisam.afzall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https._.ibtisam" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/ibtisamafzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ibtisamafzal" height="30" width="40" /></a>
 <a href="https://medium.com/ibtisamafzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ibtisamafzal" height="30" width="40" /></a>
 </p>
