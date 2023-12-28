@@ -6,15 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibtisamafzal&label=Profile%20views&color=0e75b6&style=flat" alt="ibtisamafzal" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/ibtisam__ch" target="blank"><img src="https://img.shields.io/twitter/follow/ibtisam__ch?logo=twitter&style=for-the-badge" alt="@ibtisam__ch" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Ibtisam_Afzall" target="blank"><img src="https://img.shields.io/twitter/follow/Ibtisam_Afzall?logo=twitter&style=for-the-badge" alt="@Ibtisam_Afzall" /></a> </p>
 
 - 🎓 I’m currently Studying **Bachelors of Computer Science**
 
-- 💻 I'm currently Learning **Front-End Web Development**
-
 - 👨‍💻 All of my certifications are available at [https://www.linkedin.com/in/ibtisamafzal/](https://www.linkedin.com/in/ibtisamafzal/)
 
-- 💬 Ask me about **C, C++, Python, HTML, CSS, Web Development**
+- 💬 Ask me about **C, C++, Java, HTML, CSS, Web Development**
 
 - 📫 You can reach me at: **chaudhryibtisam2003@gmail.com**
 
