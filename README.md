@@ -7,15 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/Ibtisam_Afzall" target="blank"><img src="https://img.shields.io/twitter/follow/Ibtisam_Afzall?logo=twitter&style=for-the-badge" alt="@Ibtisam_Afzall" /></a> </p>
 
-- 🎓 I’m currently Studying **Bachelors of Computer Science**
+- 🎓 I’m currently Studying **BS Computer Science**
 
 - 👨‍💻 All of my certifications are available at [https://www.linkedin.com/in/ibtisamafzal/](https://www.linkedin.com/in/ibtisamafzal/)
 
-- 💬 Ask me about **C, C++, Java, HTML, CSS, Web Development**
+- 💬 Ask me about **C++, Java, SQL Databases**
 
-- 📫 You can reach me at: **chaudhryibtisam2003@gmail.com**
+- 📫 You can reach me at: **ibtisamafzal001@gmail.com**
 
-- ⚡ Fun fact: **I think I can do Anything!!!**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibtisamafzal" alt="ibtisamafzal" /></a> </p>
 <h3 align="left">Connect with me:</h3>
