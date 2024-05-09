@@ -1,4 +1,3 @@
-![logo](https://github.com/ibtisamafzal/ibtisamafzal/blob/main/Github%20Banner.png)
 <h1 align="center">Hello 👋, I'm Muhammad Ibtisam Afzal</h1>
 <h3 align="center">A passionate Computer Science Student from Pakistan 🇵🇰</h3>
 
