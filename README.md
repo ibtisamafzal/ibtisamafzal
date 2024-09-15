@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my certifications are available at [https://www.linkedin.com/in/ibtisamafzal/](https://www.linkedin.com/in/ibtisamafzal/)
 
-- 💬 Ask me about **C++, Java, SQL Databases**
+- 💬 Ask me about **C++, Python, SQL, Web Development**
 
 - 📫 You can reach me at: **ibtisamafzal001@gmail.com**
 
