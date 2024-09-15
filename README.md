@@ -46,9 +46,6 @@
 
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibtisamafzal" alt="ibtisamafzal" /></a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ibtisamafzal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ibtisamafzal" /></a></p>
 <br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibtisamafzal&show_icons=true&locale=en&layout=compact" alt="ibtisamafzal" /></p>
@@ -56,3 +53,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibtisamafzal&show_icons=true&locale=en" alt="ibtisamafzal" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibtisamafzal&" alt="ibtisamafzal" /></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ibtisamafzal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ibtisamafzal" /></a></p>
