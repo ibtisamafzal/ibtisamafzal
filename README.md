@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ibtisam_afzall" target="blank"><img src="https://img.shields.io/twitter/follow/ibtisam_afzall?logo=twitter&style=for-the-badge" alt="ibtisam_afzall" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap, Gen-AI**
+- 🌱 I’m currently learning **Web Development, Gen-AI, LLMs, API Integrations, Custom UI Chatbots**
 
 - 👨‍💻 All of my projects are available at [https://ibtisamafzal.github.io/Ibtisam-Personal-Portfolio/](https://ibtisamafzal.github.io/Ibtisam-Personal-Portfolio/)
 
