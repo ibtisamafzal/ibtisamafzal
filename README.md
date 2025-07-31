@@ -4,14 +4,17 @@
 
 ### 🎓 Final Year BS Computer Science Student | 🚀 Full Stack Dev in the Making | 🏆 Hackathon Enthusiast
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ibtisamafzal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Hackathon+Finalist;Open+Source+Contributor" alt="Typing SVG" />
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ibtisamafzal&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/ibtisam_afzall" target="_blank">
     <img src="https://img.shields.io/twitter/follow/ibtisam_afzall?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
   </a>
 </p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Hackathon+Finalist;Open+Source+Contributor" alt="Typing SVG" />
 
 </div>
 
@@ -19,28 +22,33 @@
 
 ## 🌟 **About Me**
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-🎯 **Current Focus**
-- 🎓 Final Year **BS Computer Science** at COMSATS University Islamabad, Sahiwal Campus
-- 🌱 Deep diving into **PHP, Laravel** & **AI/ML integration**
-- 🚀 Building intelligent web applications
-- 🤝 Open for **collaborations** and **internships**
+### 🎯 **Current Focus**
 
-</td>
-<td width="50%">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🏆 **Achievements**
-- 🥇 **Finalist** at #BuildWithAI Hackathon 2024
-- 👨‍🎓 **Beta Microsoft Learn Student Ambassador**
-- 🧠 **Mentee** at Code in Place (Stanford University)
-- 🎨 **Design Team Member** @ Notion CUI SWL
+</div>
 
-</td>
-</tr>
-</table>
+🎓 **Final Year BS Computer Science Student** at COMSATS University Islamabad, Sahiwal Campus  
+🌱 Currently diving deep into **PHP, Laravel**, and **AI/ML integration** in web apps  
+🚀 Building intelligent web applications that solve real-world problems  
+🤝 Open for **Projects**, **Internships**, and **Hackathon Collaborations**  
+🎯 Career Goal: Become a **Full Stack Developer** blending beautiful UIs with intelligent backends
+
+<br clear="right"/>
+
+### 🏆 **Key Achievements & Roles**
+
+<div align="center">
+  
+| 🥇 **Competition** | 👨‍🎓 **Leadership** | 🎨 **Community** |
+|:---:|:---:|:---:|
+| **Finalist** at #BuildWithAI Hackathon 2024 by GenAI.Works | **Beta Microsoft Learn Student Ambassador** | **Design Team Member** @ Notion CUI SWL |
+| **Mentee** at Code in Place (Stanford University) | Passionate about **global hackathons** | **Ex-Design Team Member** @ GDSC CUI SWL |
+| Solving real-world problems through code | Building tech communities | Creating impactful designs |
+
+</div>
 
 ---
 
@@ -167,6 +175,8 @@
 
 **⭐ Star my repositories if you find them interesting!**
 
-![Snake animation](https://github.com/ibtisamafzal/ibtisamafzal/blob/output/github-contribution-grid-snake.svg)
+---
+
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
 </div>
