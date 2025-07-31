@@ -4,7 +4,7 @@
 
 ### 🎓 Final Year BS Computer Science Student | 🚀 Full Stack Dev in the Making | 🏆 Hackathon Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Hackathon+Finalist;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+in+Making;AI%2FML+Enthusiast;International+Hackathon+Participant;Open+Source+Contributor" alt="Typing SVG" />
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 </div>
 
-🎓 **Final Year BS Computer Science Student** at COMSATS University Islamabad, Sahiwal Campus  
+🎓 **Final Year Computer Science Student** at COMSATS University Islamabad, Sahiwal Campus  
 🌱 Currently diving deep into **PHP, Laravel**, and **AI/ML integration** in web apps  
 🚀 Building intelligent web applications that solve real-world problems  
 🤝 Open for **Projects**, **Internships**, and **Hackathon Collaborations**  
