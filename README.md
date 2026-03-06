@@ -2,7 +2,7 @@
 
 # 👨‍💻 Hey there! I'm **Ibtisam Afzal** 
 
-### 🎓 Final Year BS Computer Science Student | 🚀 Full Stack Dev in the Making | 🏆 Hackathon Enthusiast
+### 🎓 Final Year BS Computer Science Student | 🚀 Full Stack Developer | 🏆 Hackathon Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+in+Making;AI%2FML+Enthusiast;International+Hackathon+Participant;Open+Source+Contributor" alt="Typing SVG" />
 
