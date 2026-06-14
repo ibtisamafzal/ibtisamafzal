@@ -2,7 +2,7 @@
 
 # 👨‍💻 Hey there! I'm **Ibtisam Afzal** 
 
-### 🎓 Final Year BS Computer Science Student | 🚀 Full Stack Developer | 🏆 Hackathon Enthusiast
+### 🚀 Full Stack Developer | 🏆 Hackathon Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+in+Making;AI%2FML+Enthusiast;International+Hackathon+Participant;Open+Source+Contributor" alt="Typing SVG" />
 
@@ -28,8 +28,8 @@
 
 </div>
 
-🎓 **Final Year Computer Science Student** at COMSATS University Islamabad, Sahiwal Campus  
-🌱 Currently diving deep into **PHP, Laravel**, and **AI/ML integration** in web apps  
+🎓 **Recent Computer Science Graduate** from COMSATS University Islamabad, Sahiwal Campus  
+🌱 Currently diving deep into **Full-Stack Web Development**, and **AI/ML integration** in web apps  
 🚀 Building intelligent web applications that solve real-world problems  
 🤝 Open for **Projects**, **Internships**, and **Hackathon Collaborations**  
 🎯 Career Goal: Become a **Full Stack Developer** blending beautiful UIs with intelligent backends
@@ -55,10 +55,10 @@
 <div align="center">
 
 ### **Languages & Frameworks**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
