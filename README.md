@@ -2,9 +2,9 @@
 
 # 👨‍💻 Hey there! I'm **Ibtisam Afzal** 
 
-### 🚀 Full Stack Developer | 🏆 Hackathon Enthusiast
+### 🚀 Full Stack Developer & AI Builder | 🏆 Hackathon Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+in+Making;AI%2FML+Enthusiast;International+Hackathon+Participant;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+Builder;Python+%7C+React+%7C+FastAPI;International+Hackathon+Participant;Always+Learning+Something+New" alt="Typing SVG" />
 
 <br/>
 
@@ -29,10 +29,11 @@
 </div>
 
 🎓 **Recent Computer Science Graduate** from COMSATS University Islamabad, Sahiwal Campus  
-🌱 Currently diving deep into **Full-Stack Web Development**, and **AI/ML integration** in web apps  
-🚀 Building intelligent web applications that solve real-world problems  
-🤝 Open for **Projects**, **Internships**, and **Hackathon Collaborations**  
-🎯 Career Goal: Become a **Full Stack Developer** blending beautiful UIs with intelligent backends
+🌱 Exploring Full Stack Development, AI, and modern software engineering
+🚀 Building intelligent applications that solve real-world problems
+⚡ Strengthening problem-solving skills through OOP and Data Structures & Algorithms
+🏆 Participating in AI hackathons and experimenting with emerging technologies
+🎯 Career Goal: Build impactful software by combining scalable backends, great user experiences, and AI-powered solutions
 
 <br clear="right"/>
 
@@ -42,7 +43,7 @@
   
 | 🥇 **Competition** | 👨‍🎓 **Leadership** | 🎨 **Community** |
 |:---:|:---:|:---:|
-| **Finalist** at #BuildWithAI Hackathon 2024 by GenAI.Works | **Beta Microsoft Learn Student Ambassador** | **Design Team Member** @ Notion CUI SWL |
+| 🏆 Top 6 **Global Winner** at #BuildWithAI Hackathon 2024 | **Beta Microsoft Learn Student Ambassador** | **Design Team Member** @ Notion CUI SWL |
 | **Mentee** at Code in Place (Stanford University) | Passionate about **global hackathons** | **Ex-Design Team Member** @ GDSC CUI SWL |
 | Solving real-world problems through code | Building tech communities | Creating impactful designs |
 
@@ -59,36 +60,39 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript]
+![FastAPI]
+![Angular]
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### **AI & Development Tools**
+![OpenAI]
+
 ![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Playwright]
 
+![Cursor]
+![Claude]
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### **Databases & Cloud**
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Firebase]
+![Supabase]
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white)
+![Vercel]
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
 </div>
 
 ---
@@ -169,7 +173,7 @@
 
 <div align="center">
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💭 *"First, solve the problem. Then, write the code."* — John Johnson
 
 **⭐ Star my repositories if you find them interesting!**
 
