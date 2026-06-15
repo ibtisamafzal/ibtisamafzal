@@ -96,9 +96,9 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-36BCF7?style=for-the-badge&logo=firefox&logoColor=white)](https://ibtisamafzal.github.io/Ibtisam-Personal-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-36BCF7?style=for-the-badge&logo=firefox&logoColor=white)](https://www.ibtisamafzal.tech/)
 &nbsp;
-[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ibtisamafzal/Ibtisam-Personal-Portfolio/blob/d19bed1da2fd6bd995099cd97e94cc99abfda2ba/assets/M-Ibtisam-Afzal.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1BXB7ZwGqPcXOSqyeEhI0vSKCP4uUttBF/view?usp=sharing)
 &nbsp;
 [![Certifications](https://img.shields.io/badge/Certifications-View%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibtisamafzal/)
 
