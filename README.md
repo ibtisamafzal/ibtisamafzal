@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Ibtisam Afzal
+# 👨‍💻 Muhammad Ibtisam Afzal
 
 ### AI/ML Engineer & Full-Stack Developer · Top 6 Global @ BuildWithAI Hackathon 2024
 
@@ -22,11 +22,11 @@
 
 ## 🌟 About Me
 
-🎓 **CS Graduate** from COMSATS University Islamabad, Sahiwal Campus
-🏗️ Built and shipped full-stack/AI projects — from an AI healthcare platform to a visual web research agent
-🏆 **Top 6 Global** · #BuildWithAI Hackathon 2024 (4,500+ participants)
-⚡ Sharpened problem-solving through OOP and DSA, applied across projects I build
-🎯 **Currently:** Hunting for AI/ML Engineer & Full-Stack roles — open to freelance work too
+🎓 **CS Graduate** from COMSATS University Islamabad, Sahiwal Campus.
+🏗️ Built and shipped full-stack/AI projects, from an AI healthcare platform to a visual web research agent.
+🏆 **Top 6 Global** · #BuildWithAI Hackathon 2024 (4,500+ participants).
+⚡ Sharpened problem-solving through OOP and DSA, applied across projects I build.
+🎯 **Currently:** Hunting for AI/ML Engineer & Full-Stack roles, open to freelance work too.
 
 ---
 
