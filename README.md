@@ -2,7 +2,7 @@
 
 # 👨‍💻 Ibtisam Afzal
 
-### Full Stack Developer & AI Builder · Hackathon Enthusiast
+### AI/ML Engineer & Full-Stack Developer · Top 6 Global @ BuildWithAI Hackathon 2024
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+Builder;Python+%7C+React+%7C+FastAPI;International+Hackathon+Participant;Always+Learning+Something+New" alt="Typing SVG" />
 
@@ -23,10 +23,10 @@
 ## 🌟 About Me
 
 🎓 **CS Graduate** from COMSATS University Islamabad, Sahiwal Campus
-🚀 Building intelligent applications that solve real-world problems
-⚡ Sharpening problem-solving skills through OOP and Data Structures & Algorithms
-🏆 Active in AI hackathons and experimenting with emerging technologies
-🎯 **Goal:** Combine scalable backends, great UX, and AI-powered solutions
+🏗️ Built and shipped full-stack/AI projects — from an AI healthcare platform to a visual web research agent
+🏆 **Top 6 Global** · #BuildWithAI Hackathon 2024 (4,500+ participants)
+⚡ Sharpened problem-solving through OOP and DSA, applied across projects I build
+🎯 **Currently:** Hunting for AI/ML Engineer & Full-Stack roles — open to freelance work too
 
 ---
 
